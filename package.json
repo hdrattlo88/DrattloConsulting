@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/hdrattlo88/DrattloConsulting/issues"
   },
-  "homepage": "https://github.com/hdrattlo88/DrattloConsulting#readme"
+  "homepage": "https://github.com/hdrattlo88/DrattloConsulting#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
