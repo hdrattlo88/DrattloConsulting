@@ -1,0 +1,23 @@
+{
+  "name": "drattloconsulting",
+  "version": "1.0.0",
+  "description": "Drattlo Consulting LLC website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hdrattlo88/DrattloConsulting.git"
+  },
+  "keywords": [
+    "Drattlo",
+    "Consulting"
+  ],
+  "author": "Heather Drattlo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hdrattlo88/DrattloConsulting/issues"
+  },
+  "homepage": "https://github.com/hdrattlo88/DrattloConsulting#readme"
+}
